@@ -135,3 +135,7 @@ opacity: 1;
 	text-align: center;
 	margin-left: -100px;
 }
+.table{
+	width: 100%;
+	background-color: grey;
+}
