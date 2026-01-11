@@ -136,6 +136,8 @@ opacity: 1;
 	margin-left: -100px;
 }
 .table{
-	width: 100%;
-	background-color: grey;
+	width: 99%;
+	background-color: color(srgb 0.6476 0.1625 0.1664);
+	border-radius: 40px;
 }
+
